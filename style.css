@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    max-width: 90%vw;
+    height: 10%vh;
+    background-color: red;
+    color: white;
+}
+
+h1{
+    text-align: center;
+}
